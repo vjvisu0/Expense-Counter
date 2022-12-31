@@ -11,5 +11,5 @@ If you have entered all the expenses enter 'quit' in the 'Name of the expense' t
 
 You can also write comments for the expenses that you made 
 
-If you don't want want to write any expenses enter 'quit' to exit
+If you don't want want to write any comments enter 'quit' to exit
 
